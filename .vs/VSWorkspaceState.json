@@ -7,6 +7,6 @@
     "\\SistemaDeTarefas\\Models",
     "\\SistemaDeTarefas\\Repositorios"
   ],
-  "SelectedNode": "\\SistemaDeTarefas.sln",
+  "SelectedNode": "\\SistemaDeTarefas\\Controllers\\TarefaController.cs",
   "PreviewInSolutionExplorer": false
 }
